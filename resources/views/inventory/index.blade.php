@@ -35,7 +35,7 @@
         </div>
         <div class="col-md-6">
             <div class="d-flex justify-content-end gap-2">
-                <div class="position-relative" style="min-width: 300px;">
+                <div class="position-relative mt-2" style="min-width: 300px;">
                     <input type="text" class="form-control" placeholder="Search" id="searchInput">
                     <i class="fas fa-search position-absolute top-50 end-0 translate-middle-y me-3 text-muted"></i>
                 </div>
